@@ -1,6 +1,8 @@
 UgMisc 0.1
 ==========
 
+*The UgMisc repository is hosted at [Codeberg][repository]. This repository only contains a README file.*
+
 Small, basic miscellaneous language support header library for C++ standards
 C++17 and later, with an MIT licence.
 
